@@ -1,0 +1,17 @@
+---
+title: "Essais on Learning"
+subtitle: "The Evidence Problem"
+author: "Nik Bear Brown"
+language: en-US
+rights: "Copyright © 2026 Nik Bear Brown"
+publisher: "Bear Brown, LLC"
+date: "2026-04-20"
+cover-image: cover.jpg
+stylesheet: styles/kindle.css
+toc: true
+toc-depth: 2
+
+# Series
+belongs-to-collection: "Essais on Learning"
+group-position: 1
+---
