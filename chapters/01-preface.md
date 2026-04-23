@@ -2,7 +2,6 @@
 
 ![01 Preface](../images/01-preface.jpg)
 
-
 *Essai 1*
 
 ---
