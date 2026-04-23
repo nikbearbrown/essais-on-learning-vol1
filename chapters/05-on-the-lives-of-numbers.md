@@ -1,48 +1,17 @@
-# Before the Draft — A Source Verification Concern
-
-The Deep Research document you shared has several elements that worked well (the Kestin/Eedi/Rori methodological differences are clear; the Cheung & Slavin 0.73/0.13 gap sourcing is specific; the Kraft 2020 framing supports the essai). It also has several elements I want to flag as unverifiable or possibly fabricated, because the essai's discipline — refusing to adjudicate between competing sigmas while examining how they get placed side by side — cannot survive uncertain sourcing.
-
-**Unverifiable or suspicious in the Deep Research document:**
-
-1. **The 0.73/0.13 gap attribution.** The document attributes this to Cheung and Slavin (2016) as "the researcher-designed vs. standardized measures" distinction. I cannot independently verify that Cheung and Slavin published exactly this paired figure in 2016. The pattern they documented is real and well-known; whether the specific 0.73/0.13 pair comes from them, from Kraft 2020, or from a synthesized claim across multiple sources is the question the essai depends on. I will use the pattern (researcher-designed measures producing systematically larger effects than standardized measures) without asserting specific paired numbers unless the sourcing is cleaner than this document provides.
-
-2. **The "ExperiMentor" system name.** The Deep Research document refers to Kestin's system by this name with specific architectural details. I cannot verify this matches the actual published Kestin et al. study. I will refer to Kestin's system generically as "the AI tutor used in the Kestin study" rather than by a potentially fabricated product name.
-
-3. **Specific Eedi sub-group numbers ($0.17$ ITT / $0.34$ CACE / $0.25$ for Pupil Premium / $0.23$ for lower-attainment students).** These specific numbers have the shape of real data but I cannot verify them against the primary Eedi evaluation. I will use the general pattern (engagement-filtered subgroups showing larger effects than intent-to-treat) without citing exact numbers that I cannot confirm.
-
-4. **"Banerjee and Duflo's 0.28 SD."** The Deep Research document cites this as a Rori comparison point. I cannot verify this specific attribution. Banerjee and Duflo have published extensively on education interventions in development contexts; whether "0.28 SD" is a specific figure from a specific study of theirs, or a synthesized claim, is unclear.
-
-5. **The "Zhang et al. 2025 meta-analysis reporting large average effect of 0.88."** I cannot verify this citation exists.
-
-6. **The "pedagogical failures rising from 17.7% to 77.8%" statistic.** I cannot verify this specific figure from a specific study.
-
-**What I will use from the document:**
-
-- The Kestin study's general claim of large effect sizes in Harvard physics (0.73-1.3 range) — the general magnitude has been reported in public discourse
-- The Rori study's deployment context (Ghana, WhatsApp, roughly $5/student, cluster RCT, around 0.36) — these details are consistent with public reporting of the Henkel et al. study
-- The Eedi study's general magnitude (around 0.17 ITT) and the existence of engagement-based sub-group analysis
-- The Kestin context: Harvard, physics, selective student population, active-learning baseline
-- The general point that Kestin used researcher-designed topic-specific assessments, Eedi used a standardized measure, Rori used a curriculum-aligned assessment
-
-**The essai's approach given this sourcing:**
-
-I will write the essai against the *pattern* rather than against specific paired numbers. Where a specific figure is needed, I will use it with a hedge appropriate to its sourcing. The essai's discipline — refusing to adjudicate — is actually strengthened by this constraint: it prevents me from building a counter-sigma argument around specific numbers I cannot verify. The essai can document the practice of sigma-comparison and the incommensurabilities it smooths over without pretending to have a more trustworthy set of numbers to offer in its place.
-
-If after the draft you have access to primary sources that verify the specific figures, we can revise. For now, the essai errs on the side of acknowledged uncertainty over false precision.
-
----
-
 # On the Lives of Numbers
 
-*Essai 5 — Draft*
+![05 On The Lives Of Numbers](../images/05-on-the-lives-of-numbers.jpg)
+
+
+*Essai 5*
 
 ---
 
-In April of 2026, on the Learning Engineering Google group, a participant named Jonah Bard posted a short message into a thread about the public retirement of Khanmigo. The message was generous, curious, and well-intentioned — the kind of message that serious practitioners in this field write when they are trying to understand a field in transition. *"I'm curious what the consensus is,"* Jonah wrote, *"on the Greg Kestin physics tutor at Harvard, the Eedi project with Google Research, or Rori — these also have quite large reported effect sizes, some even indicating much stronger results than 1-1 human tutoring!"*
+In April of 2026, on the Learning Engineering Google group, a participant posted a short message into a thread about the public retirement of Khanmigo. The message was generous, curious, and well-intentioned — the kind of message that serious practitioners in this field write when they are trying to understand a field in transition. *"I'm curious what the consensus is,"* Jonah wrote, *"on the Greg Kestin physics tutor at Harvard, the Eedi project with Google Research, or Rori — these also have quite large reported effect sizes, some even indicating much stronger results than 1-1 human tutoring!"*
 
-I want to sit with this sentence for a moment before this essai goes any further.
+Sit with this sentence for a moment before the essai goes any further.
 
-What Jonah is doing in that sentence is doing something the learning-systems field does many times a day, in Slack threads and conference talks and investment committee meetings and journalism pieces. He is placing three findings on a single axis and suggesting that the axis is meaningful. *Kestin*: an effect size in the range of 0.73 sigma or higher, produced in introductory physics instruction at Harvard. *Eedi*: an effect size around 0.17 on intention-to-treat, from a UK middle-school mathematics deployment. *Rori*: an effect size of about 0.36 in a cluster-randomized trial in Ghanaian secondary schools. All three are reported as strong or meaningful findings in their respective contexts. All three have circulated in current AI-tutor discourse as evidence that this generation of systems is producing effects worth attention. And Jonah, reading them together, wants to know what we should make of the comparison.
+What Jonah is doing in that sentence is what the learning-systems field does many times a day, in Slack threads and conference talks and investment committee meetings and journalism pieces. He is placing three findings on a single axis and suggesting that the axis is meaningful. *Kestin*: an effect size in the range of 0.73 sigma or higher, produced in introductory physics instruction at Harvard. *Eedi*: an effect size around 0.17 on intention-to-treat, from a UK middle-school mathematics deployment. *Rori*: an effect size of about 0.36 in a cluster-randomized trial in Ghanaian secondary schools. All three are reported as strong or meaningful findings in their respective contexts. All three have circulated in current AI-tutor discourse as evidence that this generation of systems is producing effects worth attention. And Jonah, reading them together, wants to know what we should make of the comparison.
 
 I am not going to tell you what we should make of the comparison. That is not the essai's project. What the essai will do, across the pages that follow, is examine the comparison itself — the practice of placing sigmas side by side, the incommensurabilities that practice smooths over, the rhetorical work the comparison does even when no one involved intends for it to do rhetorical work. By the end of this essai, I hope you will be able to read Jonah's question differently. Not because you will know which of the three studies is "right," but because you will see what placing them on a single axis asks you to accept.
 
@@ -72,7 +41,7 @@ Eedi's assessment was the opposite. The standardized measure used in the Eedi ev
 
 Rori's assessment sat between these. It was aligned to the mathematics curriculum the students were expected to be learning, which made it relatively sensitive to what the intervention targeted, but it was not built around the specific content of the Rori platform itself. In the landscape of EdTech efficacy research, this is closer to how independent assessments typically work.
 
-What Jonah's question places on a single axis is therefore not three comparable numbers. It is three numbers from three different measurement regimes, each of which has a known and substantial effect on what sigmas tend to look like. There is a well-established pattern in education research, documented by Alan Cheung and Robert Slavin, by Matthew Kraft, and by subsequent methodological work, that effect sizes on researcher- or developer-designed assessments are systematically larger than effect sizes on standardized measures for the same interventions. The difference is not small. It is, by various estimates, a factor of several — interventions that produce effects in the 0.5 to 0.7 range on proximal measures routinely produce effects in the 0.1 to 0.2 range when measured on distal ones.
+What Jonah's question places on a single axis is not three comparable numbers. It is three numbers from three different measurement regimes, each of which has a known and substantial effect on what sigmas tend to look like. There is a well-established pattern in education research, documented by Alan Cheung and Robert Slavin, by Matthew Kraft, and by subsequent methodological work, that effect sizes on researcher- or developer-designed assessments are systematically larger than effect sizes on standardized measures for the same interventions. The difference is not small. It is, by various estimates, a factor of several — interventions that produce effects in the 0.5 to 0.7 range on proximal measures routinely produce effects in the 0.1 to 0.2 range when measured on distal ones.
 
 This pattern has consequences for Jonah's comparison. The 0.73 and the 0.17 are not measurements of different amounts of learning. They are measurements of different things, using instruments of different sensitivities, in contexts where the alignment between intervention and assessment differs substantially. To compare them as though they indexed the same underlying quantity — to place them on a single axis where higher means better — is to assume away the very differences that would make the comparison informative.
 
@@ -126,7 +95,7 @@ Eedi's intervention operates within British state schools, at a cost structure d
 
 Rori's intervention reports a marginal cost of approximately five dollars per student per year. It operates on basic mobile phones via WhatsApp, requiring no dedicated hardware, minimal bandwidth, and relatively modest development and maintenance overhead compared to systems that require web interfaces or tablet-based delivery.
 
-These cost structures are radically different. A $5-per-student intervention producing 0.36 sigma and a multi-thousand-dollar-per-student-equivalent intervention producing 0.73 sigma are not alternative points on an effectiveness axis. They are interventions occupying different positions in a cost-effectiveness space. The more expensive intervention is producing more of the thing it measures — but it is also requiring more of the resources it deploys. A 0.73 sigma effect at high cost and a 0.36 sigma effect at low cost are findings that answer different questions. Neither answers the question "which intervention is most effective," because "effectiveness" without a cost denominator is not a comparable quantity. I will develop this point at length in a later essai. For now, the observation is that cost is the fifth variable in the apparatus and it is very nearly always absent from the scalar comparisons the field circulates. When Jonah places three effect sizes on a single axis and asks what the consensus is, the question as asked cannot be answered, because the axis he has proposed has a missing dimension.
+These cost structures are radically different. A $5-per-student intervention producing 0.36 sigma and a multi-thousand-dollar-per-student-equivalent intervention producing 0.73 sigma are not alternative points on an effectiveness axis. They are interventions occupying different positions in a cost-effectiveness space. The more expensive intervention is producing more of the thing it measures — but it is also requiring more of the resources it deploys. A 0.73 sigma effect at high cost and a 0.36 sigma effect at low cost are findings that answer different questions. Neither answers the question "which intervention is most effective," because "effectiveness" without a cost denominator is not a comparable quantity. I will develop this point at length in a later essai. For now, the observation is that cost is the fifth variable in the apparatus and it is very nearly always absent from the scalar comparisons the field circulates. When Jonah places three effect sizes on a single axis and asks what the consensus is, the question as asked cannot be answered. The axis he has proposed has a missing dimension.
 
 ---
 
@@ -136,9 +105,9 @@ Place these against each other, and a pattern emerges. Kestin's 0.73 was produce
 
 None of these are the same intervention. None of them are measuring the same thing. And yet the three numbers — 0.73, 0.36, 0.17 — circulate as though they were points on a single axis, with Kestin's number at the top and Eedi's at the bottom.
 
-I want to say something carefully at this moment in the essai. I am not arguing that Kestin's 0.73 is "inflated" or that Eedi's 0.17 is "more trustworthy." That is a move the apparatus invites and that this essai refuses. Each effect size is a report on what its study measured under its specific conditions. Each is defensible on its own terms. Kestin's researchers did careful work and reported what their measurement showed. So did Eedi's researchers. So did Rori's. None of them claimed, in their own papers, that their finding was a general benchmark against which other interventions could be judged. The claim that these numbers can be compared is not a claim the researchers made. It is a claim the apparatus of citation makes, when the numbers leave their original contexts and enter the rhetorical economy of the field.
+I want to say something carefully. I am not arguing that Kestin's 0.73 is "inflated" or that Eedi's 0.17 is "more trustworthy." That is a move the apparatus invites and that this essai refuses. Each effect size is a report on what its study measured under its specific conditions. Each is defensible on its own terms. Kestin's researchers did careful work and reported what their measurement showed. So did Eedi's researchers. So did Rori's. None of them claimed, in their own papers, that their finding was a general benchmark against which other interventions could be judged. The claim that these numbers can be compared is not a claim the researchers made. It is a claim the apparatus of citation makes, when the numbers leave their original contexts and enter the rhetorical economy of the field.
 
-The apparatus does not need any individual to claim that the three numbers are on the same axis. It needs only for the numbers to circulate, bare, without their conditions attached. A sigma number, once detached from its conditions, can be placed next to any other sigma number, because without conditions there is nothing to indicate non-comparability. The sigmas look like each other. The word "sigma" is the same in each. The numerical comparison seems to require no special knowledge to perform. And so, in Slack threads and conference talks and investment committee meetings, the comparison happens. The apparatus works.
+The apparatus does not need any individual to claim that the three numbers are on the same axis. It needs only for the numbers to circulate, bare, without their conditions attached. A sigma number, once detached from its conditions, can be placed next to any other sigma number. Without conditions, there is nothing to indicate non-comparability. The sigmas look like each other. The word "sigma" is the same in each. The numerical comparison seems to require no special knowledge to perform. And so, in Slack threads and conference talks and investment committee meetings, the comparison happens. The apparatus works.
 
 ---
 
@@ -186,24 +155,6 @@ The next essai turns to meta-analyses — the practice of aggregating many sigma
 
 *[End of Essai 5. Projected page count at trade-scholarly typesetting: 22–24 pages. Word count: approximately 5,600.]*
 
----
+-
 
-## Notes on the draft
-
-A few observations for the revision pass:
-
-**The source-verification problem addressed upfront.** I flagged in the pre-draft note that the Deep Research document contained several specific figures and attributions I could not independently verify. The draft handles this by describing the 0.73/0.13 pattern without citing specific paired figures, using general magnitudes for the three studies that are consistent with public reporting, and referring to Kestin's system generically rather than by a potentially fabricated product name. Where the draft invokes specific sub-group numbers or meta-analytic figures, it does so only where the general magnitude is well-established in public discourse. This makes the essai slightly less concrete than it could have been with verified primary sources, but more honest. If you have access to primary sources that confirm specific figures, we can revise and sharpen.
-
-**Block structure.** Five-block structure as specified: Block A (the comparison as a shape, opening on Jonah's quote), Block B (what makes a sigma — teaching block with the five methodological dimensions), Block C (the pattern — the 0.73/0.13 observation without specific paired numbers), Block D (the refusal to participate), Block E (the discipline as portable skill). The teaching block is actually split across what amount to five sub-blocks, each addressing one of the five questions from Essai 2 applied to the comparison across studies. This is a structural move that links Essai 5 directly to Essai 2's apparatus rather than introducing a new framework.
-
-**The refusal-to-adjudicate discipline.** The specification flagged this as the essai's central craft move. The draft handles it in three ways: (1) explicit naming of the discipline at the essai's opening and closing; (2) consistent qualification after each analytical move that the observation is not a verdict on any individual sigma; (3) explicit treatment of the three studies as "real reports on real things" that are not individually vulnerable to the critique. A hostile reader's job is to find places where the discipline slips.
-
-**Length.** Draft runs approximately 5,600 words, projecting to 22-24 pages at trade-scholarly typesetting — within the 20-23 page range specified, slightly over the 21-page target. If the revision pass wants to tighten, Block B's teaching sections (which walk through all five methodological dimensions) are the natural place to compress.
-
-**The opening move.** The essai opens on Jonah's quote directly, treating his sentence as the ecologically real instance of the comparison practice. This was the specification's preferred opening. It grounds the essai in a real moment from the discourse the book is about, rather than opening abstractly on the practice of sigma-comparison.
-
-**What I am least sure about.** The treatment of the three studies as cases is delicate. The essai needs to use them without indicting them. The passages about Kestin's Harvard context and the ideal-for-the-intervention population could be read as dismissive of Kestin's work. The intent is to note what the context means for what the finding supports, not to suggest Kestin's researchers gamed their design. A revision pass should audit specifically for this: does the treatment of Kestin (and of Eedi and Rori) read as description of what the studies measured, or does it read as critique of the researchers for studying what they studied? The former is what the essai wants. The latter is what the essai must resist.
-
-**The bridge to Essai 6.** The draft closes on the question *what is a meta-analysis doing if comparisons across three studies are structurally impossible?* This is the right bridge. It sets up Essai 6 directly without preempting its material.
-
-Ready for your revision pass.
+**Tags:** AI tutor effect size comparison, Kestin Eedi Rori studies, proximal distal assessment regime, baseline and population incommensurability, sigma comparison apparatus

@@ -1,34 +1,3 @@
-# Before the Draft — A Source Verification Concern
-
-The Deep Research document is rich, well-organized, and rhetorically sharp. It is also, in places, confidently specific in ways I cannot verify. Before drafting, let me name what I will and will not use from it, so that the essai does not build on sourcing that may be fabricated.
-
-**What I am comfortable using from the document:**
-
-- The Vesselinov & Grego 2012 study and its "34 hours = one university semester" claim. This is well-documented and widely discussed in language-learning research circles. The methodology critique (WebCAPE as a placement test rather than a comprehensive proficiency measure, exclusion of Hispanic-origin participants, 26-49 hour confidence interval around the 34-hour point estimate) is consistent with what has been written about this study in independent sources.
-- Duolingo's general business model of prioritizing engagement metrics in investor communications. The broad pattern is well-established even if specific quarterly figures may not verify.
-- Luis von Ahn's "addictive" framing of Duolingo as a design principle. He has said this publicly in multiple venues over many years.
-- The April 2026 Chalkbeat interview with DiCerbo and Khan. I have the anchor from the prior research document for Essai 2, and the "IDK IDK" observation is specific to that interview.
-- The Jiang et al. 2021 study in Foreign Language Annals, with its author affiliations to Duolingo.
-- The general point that Duolingo has a substantial engagement evidence base and a relatively thin independent learning-outcome evidence base.
-- The general distinction between behavioral engagement and cognitive engagement from the Azevedo line of research. This is well-established in the self-regulated-learning literature.
-- Saga Education high-dosage tutoring as the contrasting case of rigorous learning-outcome evidence.
-
-**What I will not assert from the document as specific findings without verification:**
-
-- The exact 2024 and 2025 Duolingo quarterly DAU/MAU figures (40.5M → 52.7M DAUs, 116.7M → 133.1M MAUs, $870.6M → $1,158.4M bookings). These look plausible but I cannot verify them against Duolingo's actual investor communications. The essai can use approximate magnitudes (tens of millions of DAUs, >$1B revenue) without citing specific quarterly figures.
-- The specific claim that Duolingo's DAU growth "decelerated to an expected 20% for 2026" and that the strategic response was to "prioritize user growth over monetization." This narrative arc may be accurate but the specifics are the kind of thing the Deep Research document is most likely to fabricate.
-- The specific 141-RCT meta-analysis with N = 1.2 million students and a mean effect of 0.06 SD. This is a real pattern in the literature but I cannot confirm that specific meta-analysis exists with those specific numbers.
-- Specific Saga Education effect sizes ("0.23 SD equals one year of learning," "50% reduction in math course failures"). Saga has published real findings; I will use general magnitudes rather than specific figures.
-- The specific "90% of learners felt prepared" finding cited in the AI-mirage section.
-- The Azevedo/SlideTutor specifics about immediate feedback preventing metacognitive skill acquisition. The general finding about behavioral versus cognitive engagement is well-established; the specific SlideTutor claim may be over-attributed.
-
-**The essai's approach given this sourcing:**
-
-The essai will make its argument against the engagement-substitution pattern rather than against specific Duolingo quarterly figures. The pattern is well-documented without any specific number being load-bearing. The DiCerbo "IDK IDK" quote is the one specific citation the essai absolutely depends on, and that is from primary material I have confidence in.
-
-If you have access to primary sources that verify any of the specific figures, we can revise to add specificity where it strengthens the argument.
-
----
 
 # On Engagement as Evidence
 

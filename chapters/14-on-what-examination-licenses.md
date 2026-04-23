@@ -1,5 +1,8 @@
 # On What Examination Licenses
 
+![14 On What Examination Licenses](../images/14-on-what-examination-licenses.jpg)
+
+
 *Essai 14*
 
 ---
@@ -18,7 +21,7 @@ What I want to do is release you.
 
 ---
 
-The specific development that reached me after the twelfth essai was completed, and that belongs briefly in this closing, is worth naming. After the April 2026 *Chalkbeat* interview in which Kristen DiCerbo said publicly that she was not seeing the revolution in education, Khan Academy did something the rhetorical-moves analysis of Essai 11 did not predict. The organization did not double down. It did not simply pivot to "investing in human systems" as an indefinite deferral. It overhauled the product. Khanmigo, as a separate chatbot that students were expected to seek out and engage with, was significantly de-emphasized. The AI assistance was folded directly into Khan Academy's practice-problem infrastructure — into the specific moments when students were already engaged with mathematical or scientific work, rather than existing as a parallel conversational channel the student had to initiate. The revolutionary super-tutor framing of 2023 was not revived. The product was rebuilt around what the evidence from three years of deployment had shown: that students do not, in aggregate, spontaneously initiate productive dialogue with an AI chatbot, but that AI assistance offered at the point of a student's existing work can be useful in specific ways.
+The specific development that reached me after the twelfth essai was completed, and that belongs briefly in this closing, is worth naming. After the April 2026 *Chalkbeat* interview in which Kristen DiCerbo said publicly that she was not seeing the revolution in education, Khan Academy did something the rhetorical-moves analysis of Essai 11 did not predict. The organization did not double down. It did not simply pivot to "investing in human systems" as an indefinite deferral. It overhauled the product. Khanmigo, as a separate chatbot that students were expected to seek out and engage with, was significantly de-emphasized. The AI assistance was folded directly into Khan Academy's practice-problem infrastructure — into the specific moments when students were already engaged with mathematical or scientific work. It no longer existed as a parallel conversational channel the student had to initiate. The revolutionary super-tutor framing of 2023 was not revived. The product was rebuilt around what the evidence from three years of deployment had shown: that students do not, in aggregate, spontaneously initiate productive dialogue with an AI chatbot, but that AI assistance offered at the point of a student's existing work can be useful in specific ways.
 
 This is a more consequential move than it might appear. It is what responding to evidence looks like when the response is not primarily rhetorical. It is also not a vindication of the 2023 framing — the transformation Khan invoked from the TED stage is not what has been built, and I do not know whether Khan Academy will say so. But the product itself, as a material artifact, now embodies the lesson. The tool that exists in 2026 is a different tool than the tool that was promised in 2023. The organization, whatever it says about the arc, did the thing that taking evidence seriously requires.
 
@@ -50,7 +53,7 @@ And it has not told you what to do.
 
 Not because I do not care what you do. If you have read this volume, or even an essai or two of it, you are already, almost certainly, someone who cares how the claims in the learning-systems field are made and evaluated. A researcher, a teacher, a product designer, a funder, a journalist, a policymaker, a parent trying to decide whether to buy her child a product, a practitioner trying to decide whether to adopt a tool in her classroom. The specific use you will make of the attention you have developed in this volume depends on your specific position and your specific work. I cannot specify it for you. I should not.
 
-What I can say is this. The habit of attention the book has tried to cultivate — the willingness to read a specific claim for its specific evidence, to name what the evidence supports and what it does not, to credit honest acknowledgments and identify rhetorical moves, to hold the balance in equilibrium rather than rush to judgment — is a discipline that serves you in the learning-systems field and beyond it. The moves the book has examined are not unique to educational technology. They are the moves that human beings and human institutions make when claims and evidence come into tension with each other, across every field where claims matter and evidence is difficult. You will recognize them in medicine, in policy, in engineering, in finance, in every domain where people build tools and measure what the tools do and have to explain the gap between what they hoped and what they got. The apparatus is portable. The attention you have developed in reading about educational technology is the same attention you bring to any domain where claims meet their own evidence and something has to be said about the difference.
+What I can say is this. The habit of attention the book has tried to cultivate — the willingness to read a specific claim for its specific evidence, to name what the evidence supports and what it does not, to credit honest acknowledgments and identify rhetorical moves, to hold the balance in equilibrium rather than rush to judgment — is a discipline. It serves you in the learning-systems field and beyond it. The moves the book has examined are not unique to educational technology. They are the moves that human beings and human institutions make when claims and evidence come into tension with each other, across every field where claims matter and evidence is difficult. You will recognize them in medicine, in policy, in engineering, in finance, in every domain where people build tools and measure what the tools do and have to explain the gap between what they hoped and what they got. The apparatus is portable. The attention you have developed in reading about educational technology is the same attention you bring to any domain where claims meet their own evidence and something has to be said about the difference.
 
 ---
 
@@ -70,42 +73,4 @@ Thank you for coming this far.
 
 *[End of Essai 14. End of Volume I: The Evidence Problem. Projected page count at trade-scholarly typesetting: 16–18 pages. Word count: approximately 2,000.]*
 
----
-
-## Notes on the draft
-
-A few observations for the revision pass:
-
-**Length.** The draft is deliberately much shorter than prior essais — approximately 2,000 words, projecting to 16-18 pages. The prior thirteen essais have ranged from 22 to 28 pages. This closing essai runs shorter because the closing form requires restraint that the prior essais did not. An essai that closes the volume by assembling twenty paragraphs of synthesis is performing exhaustiveness; the form calls for release, which is always shorter.
-
-**Structure.** The essai has five short movements rather than the five blocks of prior essais: the return to Khan's 2023 sentence with attention to how the reader now hears it; the brief acknowledgment of Khan Academy's post-April 2026 product overhaul (the one new development the research surfaced); the invocation of *Que sais-je?* with specific attention to the motto's history and discipline; the enumeration of what the examination has not done; the return to Montaigne and the release of the reader. Each movement is compact. The essai does not argue; it gathers and lets go.
-
-**Use of the research document.** The research document was substantive, but the essai uses very little of it explicitly. Montaigne's motto and the 1576 medal with the balance in equilibrium is the one specific historical reference I have worked with; it earns its place because it grounds *Que sais-je?* as a discipline rather than a disclaimer. Montaigne's closing of *On Experience* is referenced but not quoted directly — the reference is enough to place the essai in the tradition without turning into a citation. The contemporary essai-tradition closings (Phillips, Solnit, Agre, Nelson, Gay) are entirely absent. The apophatic and Zen and Wittgensteinian and Heideggerian philosophical traditions are entirely absent. This was deliberate. A closing that invokes ten traditions is impressing the reader, not releasing them.
-
-**The Khan Academy post-April 2026 development.** The research document surfaced one specific new fact: Khan Academy's overhaul of Khanmigo to fold AI assistance into practice problems rather than maintain it as a separate chatbot. The essai acknowledges this in a single short movement and treats it as what "taking evidence seriously looks like when the response is not primarily rhetorical." The treatment is brief because the essai's closing function is release, not re-engagement with specific cases. But the fact belongs in the essai because it changes the reader's relationship to the April 2026 material from Essai 11. If the pivot had been a further rhetorical move, the closing would read differently; because it was not, the closing can credit Khan Academy's trajectory modestly.
-
-**The tradition of the closing.** The essai works in the Montaignian essai-closing tradition without announcing it. It returns to the opening (the Khan TED sentence), releases the reader with a discipline rather than a verdict (*Que sais-je?*), refuses summary and prescription explicitly, and ends on the motto in its active rather than passive form. A reader familiar with Montaigne will hear the tradition; a reader unfamiliar will still experience the release. The essai does not require the reader to recognize what it is working inside.
-
-**The "thank you for coming this far" closing.** This is the most intimate register the book has used. It is also the most honest register available at this point. The reader has spent substantial time with the volume; a closing that pretends not to notice the reader's effort would be false to the book's conversational stance. The closing "thank you" is specific: not a general politeness but an acknowledgment that the examination required something of the reader, and that the reader gave it. I have been deliberate about placing this after the *Que sais-je?* closing rather than replacing it, so that the motto holds the structural weight and the thanks follows as a human aside.
-
-**What this closing does not do that other closings might.**
-- It does not list the book's main findings.
-- It does not specify which essais the reader should particularly carry forward.
-- It does not provide a glossary of the apparatus.
-- It does not predict where the field is going.
-- It does not recommend what the reader should read next, either within the learning-systems literature or in the broader Montaignian tradition.
-- It does not quote any contemporary writer besides Khan.
-
-Each of these absences is deliberate. Any one of them could be added in a revision pass, but adding them would shift the closing from the release-register to the reference-register, which is what I have been trying to avoid.
-
-**What I am not sure about.**
-
-I am not sure about the invocation of *On Experience* without quotation. The reference is to ground the essai in the Montaignian tradition specifically; a reader who knows Montaigne will hear the reference and complete it themselves. A reader who does not know Montaigne may find the reference obscure. The alternative — quoting Montaigne's closing directly — would address the unknown reader but would also add weight that the closing is trying to shed. I have chosen the lighter option. A revision pass could reconsider.
-
-I am not sure about the "If you have read this volume, or even an essai or two of it..." paragraph. The paragraph serves a specific function — acknowledging that the reader may have come to the book in different ways, with different professional positions, with different uses for the apparatus — but it also performs a kind of enumeration that is more consultative than the rest of the essai. A revision pass could compress it further or remove it. I have kept it because many readers of a volume published in the way this volume is being published (Substack serial followed by Kindle compilation) will have come to particular essais out of order, and the paragraph respects that. But it is not essential.
-
-I am not sure the length will feel right. A 2,000-word closing in a volume of 6,000-word essais is an eighth the length of the essais around it. This is a deliberate structural choice, but it could feel abrupt to a reader who has read the full volume in sequence. The alternative is to extend the closing with more of the research material — the apophatic tradition, Wittgenstein's silence, Zen's *mu*, contemporary writers' releases — but each addition would work against the closing's function. I have chosen brevity. A reader who expects more may want more. I will leave that choice open.
-
-Finally, I am not sure the essai avoids self-congratulation. The move of saying "the book has not delivered a verdict" is itself a claim about the book, and a claim that attributes discipline to the author. I have tried to make the move in the register of description rather than of self-praise — these are the things the examination has not done, not the things I have heroically refrained from doing. But the line is delicate. If the closing drifts toward self-congratulation, tell me where.
-
-Ready for your revision pass.
+**Tags:** volume closing Montaigne que sais-je, apparatus of attention non-specialist discipline, Khanmigo product overhaul April 2026, epoche balance in equilibrium, releasing the reader into examination
